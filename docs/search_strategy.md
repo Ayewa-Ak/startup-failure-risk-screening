@@ -7,10 +7,10 @@ Export date: [date]. Data update: [number and date shown in AIDA].
 
 | Step | Criterion | Setting | Step result | Search result |
 |---|---|---|---|---|
-| 1 | Date of incorporation | 01/01/2016 to 31/12/2018 | [..] | [..] |
-| 2 | Legal status | All 11 statuses (3 active, 8 inactive) | [..] | [..] |
-| 3 | Legal form | SRL, one-person SRL, simplified SRL, SRL with reduced capital | [..] | [..] |
-| 4 | Years with available accounts | 2019 (absolute year) | [..] | 211,098 |
+| 1 | Date of incorporation | 01/01/2016 to 31/12/2018 |  |  |
+| 2 | Legal status | All 11 statuses (3 active, 8 inactive) |  |  |
+| 3 | Legal form | SRL, one-person SRL, simplified SRL, SRL with reduced capital |  |  |
+| 4 | Years with available accounts | 2019 (absolute year) |  | 211,098 |
 
 No filter on legal events, procedures or financial values was used, so the outcome does not
 select the sample. An earlier search filtered on legal events was discarded for this reason.
