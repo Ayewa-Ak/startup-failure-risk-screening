@@ -1,0 +1,7 @@
+seed: 42
+snapshot_date: "2019-12-31"
+horizon_years: 3
+label_tier: "medium"        # narrow | medium | broad
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
