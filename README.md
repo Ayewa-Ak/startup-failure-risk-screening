@@ -13,19 +13,6 @@ Source: AIDA (Bureau van Dijk, Moody's), accessed through the University of Bolo
 Sample: SRL-type companies incorporated 2016-2018 that filed 2019 accounts (211,098 firms).
 Raw data is not included for licensing reasons. See docs/search_strategy.md to regenerate it.
 
-## Install
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-
-## Run
-python -m startup_risk.train --config configs/config.yaml
-
-## Reproduce main results
-1. Place the six AIDA batch files in data/raw/.
-2. Run the pipeline above.
-3. Results are written to reports/ and models/.
-
 ## Project structure
 src/startup_risk/ (code), notebooks/ (exploration), data/ (raw and processed, not committed),
 configs/ (settings), tests/ (unit tests), docs/ (data dictionary, label definition, search strategy),
